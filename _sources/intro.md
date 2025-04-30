@@ -18,6 +18,8 @@ This is the landing page of the AI4Fusion Summer School held at William & Mary d
 
 ```{important}
 Applications are now open. Please submit this [Google Form](https://forms.gle/qgc6ZU8wB4QvPZCn6)
+
+For any question, please contact: wmsummerschool@gmail.com
 ```
 
 
